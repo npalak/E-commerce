@@ -1,0 +1,49 @@
+.left-block{
+    width: 60%;
+    height: 60%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.right-block{
+    margin: 55px;
+    line-height: 30px;
+    
+    width:30%;
+    height:30%
+}
+
+
+.title-row{
+    margin: 55px;
+    line-height: 40px;
+}
+
+.show-button{
+    background-color: royalblue;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+
+.add-product{
+    background-color: royalblue;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+    margin-bottom: 30px;
+    margin-left: 680px;
+}
+
+.product-text{
+    background-color: royalblue;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+    margin-bottom: 30px;
+    margin-left: -4px;
+    text-align: center;
+}
